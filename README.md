@@ -1,0 +1,1 @@
+ Hate Speech Detection: Textual hate speech detection identifies and categorizes hate speech in written content. These models, which include machine learning and deep learning algorithms, are trained on labelled data to differentiate between hate speech, offensive language and non-offensive information.
